@@ -5,5 +5,7 @@ int main() {
     // new push 1 test/
 
     // im going to keep retrying
+
+    std::cout << "123";
     return 0;
 }
